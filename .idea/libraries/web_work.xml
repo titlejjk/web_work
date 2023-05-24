@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="web_work">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/work/Catalina/localhost/Step02_DataBase" />
+      <root url="file://$PROJECT_DIR$/Step02_DataBase/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
