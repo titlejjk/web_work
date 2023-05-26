@@ -1,15 +1,18 @@
 package test.guest.dto;
 
 public class GuestDto {
-	
+	/*
+	 *	Dto의 필드 선언하기
+	 */
 	private int num;
 	private String writer;
 	private String content;
 	private String pwd;
 	private String regdate;
 	
+	//디폴트 생성자
 	public GuestDto() {}
-	//각 객체 생성
+
 	public GuestDto(int num, String writer, String content, String pwd, String regdate) {
 		super();
 		this.num = num;
@@ -18,7 +21,7 @@ public class GuestDto {
 		this.pwd = pwd;
 		this.regdate = regdate;
 	}
-	//각 setter, getter 생성
+
 	public int getNum() {
 		return num;
 	}
